@@ -24,7 +24,7 @@ git clone https://github.com/PriyajitMaity/Accuknox-dashboard.git
 ```
 npm install
 ```
- 1. Run the application
+ 3. Run the application
 ```
 npm run dev
 ```
