@@ -1,7 +1,30 @@
-# React + Vite
+# Accuknox Dashboard
+This repository contains the AccuKnox Dashboard project, a dynamic and interactive dashboard where users can manage categories and widgets. It allows users to add, remove, and search for widgets within different categories.
 
- post - https://priyajitmaity.github.io/Accuknox-dashboard/
+post - https://priyajitmaity.github.io/Accuknox-dashboard/
 
-## Expanding the ESLint configuration
+## Tech Stack
+Frontend: React, JavaScript.
+State Management: Redux-Toolkit.
+Version Control: Git and GitHub.
+Data Storage: Local JSON file.
+Bundling: Vite.
+Styling: Tailwind CSS.
+Icons: react-icons.
+Deployment: gh-pages.
+  ** when refreshing the page data will revert the initial data
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ## To Run in local Environment
+ 
+ 1. Clone Repository
+```
+git clone https://github.com/PriyajitMaity/Accuknox-dashboard.git
+```
+ 2. Install dependencies
+```
+npm install
+```
+ 1. Run the application
+```
+npm run dev
+```
